@@ -11,4 +11,4 @@ Relative videos about the project: https://space.bilibili.com/616904352?spm_id_f
 `Position`: senior research assistant, tech group leader, new algorithm leader \
 `Work`:some common supervised leanring and unsupervised learning algorithms deployment \
 on geological data analysis for regression and classification \
-`PS`: See evrey sub projects done individually on those files
+`PS`: see every sub projects done individually on those specific files
