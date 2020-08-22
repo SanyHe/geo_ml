@@ -1,2 +1,5 @@
-# Machine_Learning_on_Geological_Project
-some common supervised leanring and unsupervised learning algorithms on geological data analysis
+# Geological_Project
+
+@author: 何灿 Sany
+IDE：Pycharm & Jupyter notebook
+some common supervised leanring and unsupervised learning algorithms deployment on geological data analysis for regression and classification.
