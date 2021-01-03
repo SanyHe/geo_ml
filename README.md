@@ -16,4 +16,6 @@ Code repository: \
 `Position`: senior research assistant, Data Science Group leader, github/gitee manager, youtube/bilibili manager\
 `Work`:some common supervised leanring and unsupervised learning algorithms deployment \
 on geological data analysis for regression and classification \
-`PS`: see every sub projects done individually on those specific files, the latest version of the code can be search on the Ml_explore and Ml_package repo.
+`PS`: see every sub projects done individually on those specific files, the latest version of the code can be search on the [Ml_explore](https://github.com/ZJUEarthData/ML_explore) and [Ml_package](https://github.com/ZJUEarthData/ML_package) repo.
+
+
