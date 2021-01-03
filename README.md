@@ -6,7 +6,7 @@ Relative videos about the project:                                \
 2.Youtube https://www.youtube.com/channel/UCu0R4jq3DPlAhtWcYcjxkLQ?view_as=subscriber     \
 Code repository: \
 1.Gitee https://gitee.com/zju-earth-data \
-2.GitHub https://github.com/ZJUEarthData \
+2.GitHub https://github.com/ZJUEarthData 
 
 ------------------------
 
